@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vsP5UECIVFcFVeJWZc7vS2EfWqISsXqTOYNMJcK+UIU=",
+  "Source": "AzureApiTest",
+  "BasePath": "_content/AzureApiTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
